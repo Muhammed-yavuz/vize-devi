@@ -1,1 +1,1 @@
-# vizeodevi
+# yazılım mühendisliği oryantasyon dersi vizeodevi
